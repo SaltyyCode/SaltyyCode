@@ -20,4 +20,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saltyycode&show_icons=true&locale=en" alt="saltyycode" /></p>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=thesaltyy&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=thesaltyy&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=thesaltyy&cover_image=true&theme=compact&show_offline=true&background_color=000000&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=thesaltyy&redirect=true)
