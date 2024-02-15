@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **C**
 
-- 📫 How to reach me **clement.bouret@epitech.eu**
+- 📫 How to reach me : **clement.bouret@epitech.eu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
