@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Clément</h1>
-<h3 align="center">But you can call me Saltyy</h3>
+<h3 align="center">But you can call me Saltyy :)) </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saltyycode&label=Profile%20views&color=0e75b6&style=flat" alt="saltyycode" /> </p>
 
 - 🔭 I’m currently studying **computer science**
