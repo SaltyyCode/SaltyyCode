@@ -18,7 +18,7 @@
 
 ![image](https://github-readme-stats.vercel.app/api/top-langs/?username=SaltyyCode&layout=compact&langs_count=8&hide_border=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saltyycode&" alt="saltyycode" /></p>
+src="https://github-readme-streak-stats.herokuapp.com/?user=saltyycode&" alt="saltyycode" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saltyycode&show_icons=true&locale=en" alt="saltyycode" /></p>
 
