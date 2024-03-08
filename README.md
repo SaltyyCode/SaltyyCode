@@ -20,7 +20,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saltyycode&" alt="saltyycode" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saltyycode&theme=dark&show_icons=true&locale=en" alt="saltyycode" /></p>
-<p>&nbsp;<img align="center"http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SaltyyCode&theme=dark /></p>
+<p>&nbsp;<img align="center" src=https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SaltyyCode&theme=dark /></p>
 
 
 
