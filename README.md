@@ -19,8 +19,12 @@
 ![image](https://github-readme-stats.vercel.app/api/top-langs/?username=SaltyyCode&layout=compact&langs_count=8&hide_border=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saltyycode&" alt="saltyycode" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saltyycode&theme=dark&show_icons=true&locale=en" alt="saltyycode" /></p>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SaltyyCode&theme=dark)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saltyycode&show_icons=true&locale=en" alt="saltyycode" /></p>
+
+
+###
 
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=thesaltyy&cover_image=true&theme=compact&show_offline=true&background_color=000000&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=thesaltyy&redirect=true)
