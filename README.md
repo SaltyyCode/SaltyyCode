@@ -20,7 +20,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saltyycode&theme=dark&" alt="saltyycode" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saltyycod&theme=darke&show_icons=true&locale=en" alt="saltyycode" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saltyycode&theme=dark&show_icons=true&locale=en" alt="saltyycode" /></p>
 
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=thesaltyy&cover_image=true&theme=compact&show_offline=true&background_color=000000&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=thesaltyy&redirect=true)
