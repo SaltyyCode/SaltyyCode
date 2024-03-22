@@ -30,4 +30,8 @@
   
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=thesaltyy&cover_image=true&theme=compact&show_offline=true&background_color=000000&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=thesaltyy&redirect=true)
 
+<script src="https://tryhackme.com/badge/2916830"></script>
+
+
+
 </div>
