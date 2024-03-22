@@ -30,7 +30,7 @@
   
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=thesaltyy&cover_image=true&theme=compact&show_offline=true&background_color=000000&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=thesaltyy&redirect=true)
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/SaltyyHack.png" alt="TryHackMe">
+
 
 
 </div>
