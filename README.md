@@ -30,5 +30,7 @@
   
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=thesaltyy&cover_image=true&theme=compact&show_offline=true&background_color=000000&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=thesaltyy&redirect=true)
 
+![SaltyyHack](https://github.com/SaltyyCode/SaltyyCode/assets/141867236/8f11a85c-55bb-461c-af02-91c5825d8a6e)
+
 
 </div>
