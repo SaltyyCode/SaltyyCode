@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently studying **computer science** at {Epitech} Lille 
 
-- 🌱 I’m currently employed as web developper intern, learning HTML / CSS & Js 
+- 🌱 I’m currently in 2nd year, learning Haskell, C++ and C
 
 - 📫 How to reach me : **clement.bouret@epitech.eu**
 
